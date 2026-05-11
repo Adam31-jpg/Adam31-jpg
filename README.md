@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻Full Stack developer at BYG4LAB<br>📚Study at Toulouse Ynov Campus<br>🥇Actually working on a secret porject 🤫
+💻Full Stack developer
+Portfolio: https://adam-portfolio.space/fr
 
 
 ## 🌐 Socials:
